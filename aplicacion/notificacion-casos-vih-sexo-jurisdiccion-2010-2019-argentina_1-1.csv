@@ -1,0 +1,751 @@
+"id_sexo","sexo","id_jurisdiccion","jurisdiccion","anio","casos_vih"
+3,"ambos_sexos","200","ARG",2010,7188
+3,"ambos_sexos","200","ARG",2011,7171
+3,"ambos_sexos","200","ARG",2012,7206
+3,"ambos_sexos","200","ARG",2013,7218
+3,"ambos_sexos","200","ARG",2014,6522
+3,"ambos_sexos","200","ARG",2015,6593
+3,"ambos_sexos","200","ARG",2016,6202
+3,"ambos_sexos","200","ARG",2017,4898
+3,"ambos_sexos","200","ARG",2018,5087
+3,"ambos_sexos","200","ARG",2019,4786
+3,"ambos_sexos","02","CABA",2010,1424
+3,"ambos_sexos","02","CABA",2011,1326
+3,"ambos_sexos","02","CABA",2012,1266
+3,"ambos_sexos","02","CABA",2013,1218
+3,"ambos_sexos","02","CABA",2014,1075
+3,"ambos_sexos","02","CABA",2015,1119
+3,"ambos_sexos","02","CABA",2016,1030
+3,"ambos_sexos","02","CABA",2017,695
+3,"ambos_sexos","02","CABA",2018,597
+3,"ambos_sexos","02","CABA",2019,628
+3,"ambos_sexos","06","Buenos Aires",2010,2426
+3,"ambos_sexos","06","Buenos Aires",2011,2400
+3,"ambos_sexos","06","Buenos Aires",2012,2234
+3,"ambos_sexos","06","Buenos Aires",2013,2126
+3,"ambos_sexos","06","Buenos Aires",2014,1927
+3,"ambos_sexos","06","Buenos Aires",2015,1919
+3,"ambos_sexos","06","Buenos Aires",2016,1740
+3,"ambos_sexos","06","Buenos Aires",2017,1224
+3,"ambos_sexos","06","Buenos Aires",2018,1282
+3,"ambos_sexos","06","Buenos Aires",2019,1257
+3,"ambos_sexos","10","Catamarca",2010,19
+3,"ambos_sexos","10","Catamarca",2011,36
+3,"ambos_sexos","10","Catamarca",2012,44
+3,"ambos_sexos","10","Catamarca",2013,38
+3,"ambos_sexos","10","Catamarca",2014,44
+3,"ambos_sexos","10","Catamarca",2015,68
+3,"ambos_sexos","10","Catamarca",2016,52
+3,"ambos_sexos","10","Catamarca",2017,10
+3,"ambos_sexos","10","Catamarca",2018,5
+3,"ambos_sexos","10","Catamarca",2019,1
+3,"ambos_sexos","22","Chaco",2010,91
+3,"ambos_sexos","22","Chaco",2011,95
+3,"ambos_sexos","22","Chaco",2012,110
+3,"ambos_sexos","22","Chaco",2013,142
+3,"ambos_sexos","22","Chaco",2014,47
+3,"ambos_sexos","22","Chaco",2015,22
+3,"ambos_sexos","22","Chaco",2016,78
+3,"ambos_sexos","22","Chaco",2017,23
+3,"ambos_sexos","22","Chaco",2018,166
+3,"ambos_sexos","22","Chaco",2019,120
+3,"ambos_sexos","26","Chubut",2010,100
+3,"ambos_sexos","26","Chubut",2011,136
+3,"ambos_sexos","26","Chubut",2012,114
+3,"ambos_sexos","26","Chubut",2013,136
+3,"ambos_sexos","26","Chubut",2014,103
+3,"ambos_sexos","26","Chubut",2015,112
+3,"ambos_sexos","26","Chubut",2016,121
+3,"ambos_sexos","26","Chubut",2017,55
+3,"ambos_sexos","26","Chubut",2018,81
+3,"ambos_sexos","26","Chubut",2019,101
+3,"ambos_sexos","14","Córdoba",2010,654
+3,"ambos_sexos","14","Córdoba",2011,593
+3,"ambos_sexos","14","Córdoba",2012,638
+3,"ambos_sexos","14","Córdoba",2013,640
+3,"ambos_sexos","14","Córdoba",2014,599
+3,"ambos_sexos","14","Córdoba",2015,553
+3,"ambos_sexos","14","Córdoba",2016,529
+3,"ambos_sexos","14","Córdoba",2017,497
+3,"ambos_sexos","14","Córdoba",2018,393
+3,"ambos_sexos","14","Córdoba",2019,314
+3,"ambos_sexos","18","Corrientes",2010,89
+3,"ambos_sexos","18","Corrientes",2011,79
+3,"ambos_sexos","18","Corrientes",2012,90
+3,"ambos_sexos","18","Corrientes",2013,109
+3,"ambos_sexos","18","Corrientes",2014,103
+3,"ambos_sexos","18","Corrientes",2015,117
+3,"ambos_sexos","18","Corrientes",2016,110
+3,"ambos_sexos","18","Corrientes",2017,35
+3,"ambos_sexos","18","Corrientes",2018,53
+3,"ambos_sexos","18","Corrientes",2019,26
+3,"ambos_sexos","30","Entre Ríos",2010,165
+3,"ambos_sexos","30","Entre Ríos",2011,182
+3,"ambos_sexos","30","Entre Ríos",2012,160
+3,"ambos_sexos","30","Entre Ríos",2013,182
+3,"ambos_sexos","30","Entre Ríos",2014,128
+3,"ambos_sexos","30","Entre Ríos",2015,144
+3,"ambos_sexos","30","Entre Ríos",2016,120
+3,"ambos_sexos","30","Entre Ríos",2017,56
+3,"ambos_sexos","30","Entre Ríos",2018,132
+3,"ambos_sexos","30","Entre Ríos",2019,30
+3,"ambos_sexos","34","Formosa",2010,39
+3,"ambos_sexos","34","Formosa",2011,33
+3,"ambos_sexos","34","Formosa",2012,49
+3,"ambos_sexos","34","Formosa",2013,73
+3,"ambos_sexos","34","Formosa",2014,40
+3,"ambos_sexos","34","Formosa",2015,70
+3,"ambos_sexos","34","Formosa",2016,74
+3,"ambos_sexos","34","Formosa",2017,78
+3,"ambos_sexos","34","Formosa",2018,90
+3,"ambos_sexos","34","Formosa",2019,133
+3,"ambos_sexos","38","Jujuy",2010,123
+3,"ambos_sexos","38","Jujuy",2011,106
+3,"ambos_sexos","38","Jujuy",2012,144
+3,"ambos_sexos","38","Jujuy",2013,178
+3,"ambos_sexos","38","Jujuy",2014,166
+3,"ambos_sexos","38","Jujuy",2015,176
+3,"ambos_sexos","38","Jujuy",2016,167
+3,"ambos_sexos","38","Jujuy",2017,204
+3,"ambos_sexos","38","Jujuy",2018,291
+3,"ambos_sexos","38","Jujuy",2019,303
+3,"ambos_sexos","42","La Pampa",2010,39
+3,"ambos_sexos","42","La Pampa",2011,55
+3,"ambos_sexos","42","La Pampa",2012,40
+3,"ambos_sexos","42","La Pampa",2013,74
+3,"ambos_sexos","42","La Pampa",2014,54
+3,"ambos_sexos","42","La Pampa",2015,66
+3,"ambos_sexos","42","La Pampa",2016,69
+3,"ambos_sexos","42","La Pampa",2017,73
+3,"ambos_sexos","42","La Pampa",2018,50
+3,"ambos_sexos","42","La Pampa",2019,49
+3,"ambos_sexos","46","La Rioja",2010,63
+3,"ambos_sexos","46","La Rioja",2011,53
+3,"ambos_sexos","46","La Rioja",2012,35
+3,"ambos_sexos","46","La Rioja",2013,66
+3,"ambos_sexos","46","La Rioja",2014,62
+3,"ambos_sexos","46","La Rioja",2015,44
+3,"ambos_sexos","46","La Rioja",2016,15
+3,"ambos_sexos","46","La Rioja",2017,7
+3,"ambos_sexos","46","La Rioja",2018,4
+3,"ambos_sexos","46","La Rioja",2019,38
+3,"ambos_sexos","50","Mendoza",2010,264
+3,"ambos_sexos","50","Mendoza",2011,286
+3,"ambos_sexos","50","Mendoza",2012,285
+3,"ambos_sexos","50","Mendoza",2013,318
+3,"ambos_sexos","50","Mendoza",2014,323
+3,"ambos_sexos","50","Mendoza",2015,330
+3,"ambos_sexos","50","Mendoza",2016,305
+3,"ambos_sexos","50","Mendoza",2017,308
+3,"ambos_sexos","50","Mendoza",2018,321
+3,"ambos_sexos","50","Mendoza",2019,341
+3,"ambos_sexos","54","Misiones",2010,135
+3,"ambos_sexos","54","Misiones",2011,128
+3,"ambos_sexos","54","Misiones",2012,190
+3,"ambos_sexos","54","Misiones",2013,120
+3,"ambos_sexos","54","Misiones",2014,95
+3,"ambos_sexos","54","Misiones",2015,36
+3,"ambos_sexos","54","Misiones",2016,149
+3,"ambos_sexos","54","Misiones",2017,117
+3,"ambos_sexos","54","Misiones",2018,124
+3,"ambos_sexos","54","Misiones",2019,32
+3,"ambos_sexos","58","Neuquén",2010,127
+3,"ambos_sexos","58","Neuquén",2011,131
+3,"ambos_sexos","58","Neuquén",2012,121
+3,"ambos_sexos","58","Neuquén",2013,110
+3,"ambos_sexos","58","Neuquén",2014,142
+3,"ambos_sexos","58","Neuquén",2015,144
+3,"ambos_sexos","58","Neuquén",2016,134
+3,"ambos_sexos","58","Neuquén",2017,152
+3,"ambos_sexos","58","Neuquén",2018,137
+3,"ambos_sexos","58","Neuquén",2019,137
+3,"ambos_sexos","62","Río Negro",2010,91
+3,"ambos_sexos","62","Río Negro",2011,97
+3,"ambos_sexos","62","Río Negro",2012,109
+3,"ambos_sexos","62","Río Negro",2013,130
+3,"ambos_sexos","62","Río Negro",2014,101
+3,"ambos_sexos","62","Río Negro",2015,124
+3,"ambos_sexos","62","Río Negro",2016,139
+3,"ambos_sexos","62","Río Negro",2017,111
+3,"ambos_sexos","62","Río Negro",2018,134
+3,"ambos_sexos","62","Río Negro",2019,109
+3,"ambos_sexos","66","Salta",2010,257
+3,"ambos_sexos","66","Salta",2011,300
+3,"ambos_sexos","66","Salta",2012,317
+3,"ambos_sexos","66","Salta",2013,304
+3,"ambos_sexos","66","Salta",2014,347
+3,"ambos_sexos","66","Salta",2015,337
+3,"ambos_sexos","66","Salta",2016,331
+3,"ambos_sexos","66","Salta",2017,343
+3,"ambos_sexos","66","Salta",2018,320
+3,"ambos_sexos","66","Salta",2019,306
+3,"ambos_sexos","70","San Juan",2010,58
+3,"ambos_sexos","70","San Juan",2011,92
+3,"ambos_sexos","70","San Juan",2012,102
+3,"ambos_sexos","70","San Juan",2013,97
+3,"ambos_sexos","70","San Juan",2014,91
+3,"ambos_sexos","70","San Juan",2015,95
+3,"ambos_sexos","70","San Juan",2016,97
+3,"ambos_sexos","70","San Juan",2017,88
+3,"ambos_sexos","70","San Juan",2018,108
+3,"ambos_sexos","70","San Juan",2019,117
+3,"ambos_sexos","74","San Luis",2010,44
+3,"ambos_sexos","74","San Luis",2011,48
+3,"ambos_sexos","74","San Luis",2012,70
+3,"ambos_sexos","74","San Luis",2013,91
+3,"ambos_sexos","74","San Luis",2014,57
+3,"ambos_sexos","74","San Luis",2015,74
+3,"ambos_sexos","74","San Luis",2016,80
+3,"ambos_sexos","74","San Luis",2017,48
+3,"ambos_sexos","74","San Luis",2018,37
+3,"ambos_sexos","74","San Luis",2019,59
+3,"ambos_sexos","78","Santa Cruz",2010,62
+3,"ambos_sexos","78","Santa Cruz",2011,61
+3,"ambos_sexos","78","Santa Cruz",2012,61
+3,"ambos_sexos","78","Santa Cruz",2013,46
+3,"ambos_sexos","78","Santa Cruz",2014,74
+3,"ambos_sexos","78","Santa Cruz",2015,71
+3,"ambos_sexos","78","Santa Cruz",2016,67
+3,"ambos_sexos","78","Santa Cruz",2017,93
+3,"ambos_sexos","78","Santa Cruz",2018,96
+3,"ambos_sexos","78","Santa Cruz",2019,43
+3,"ambos_sexos","82","Santa Fe",2010,467
+3,"ambos_sexos","82","Santa Fe",2011,445
+3,"ambos_sexos","82","Santa Fe",2012,452
+3,"ambos_sexos","82","Santa Fe",2013,485
+3,"ambos_sexos","82","Santa Fe",2014,360
+3,"ambos_sexos","82","Santa Fe",2015,340
+3,"ambos_sexos","82","Santa Fe",2016,259
+3,"ambos_sexos","82","Santa Fe",2017,196
+3,"ambos_sexos","82","Santa Fe",2018,236
+3,"ambos_sexos","82","Santa Fe",2019,223
+3,"ambos_sexos","86","Santiago del Estero",2010,57
+3,"ambos_sexos","86","Santiago del Estero",2011,85
+3,"ambos_sexos","86","Santiago del Estero",2012,49
+3,"ambos_sexos","86","Santiago del Estero",2013,35
+3,"ambos_sexos","86","Santiago del Estero",2014,68
+3,"ambos_sexos","86","Santiago del Estero",2015,86
+3,"ambos_sexos","86","Santiago del Estero",2016,39
+3,"ambos_sexos","86","Santiago del Estero",2017,22
+3,"ambos_sexos","86","Santiago del Estero",2018,23
+3,"ambos_sexos","86","Santiago del Estero",2019,22
+3,"ambos_sexos","94","Tierra del Fuego",2010,33
+3,"ambos_sexos","94","Tierra del Fuego",2011,49
+3,"ambos_sexos","94","Tierra del Fuego",2012,34
+3,"ambos_sexos","94","Tierra del Fuego",2013,43
+3,"ambos_sexos","94","Tierra del Fuego",2014,35
+3,"ambos_sexos","94","Tierra del Fuego",2015,41
+3,"ambos_sexos","94","Tierra del Fuego",2016,44
+3,"ambos_sexos","94","Tierra del Fuego",2017,36
+3,"ambos_sexos","94","Tierra del Fuego",2018,43
+3,"ambos_sexos","94","Tierra del Fuego",2019,43
+3,"ambos_sexos","90","Tucumán",2010,214
+3,"ambos_sexos","90","Tucumán",2011,205
+3,"ambos_sexos","90","Tucumán",2012,292
+3,"ambos_sexos","90","Tucumán",2013,271
+3,"ambos_sexos","90","Tucumán",2014,270
+3,"ambos_sexos","90","Tucumán",2015,262
+3,"ambos_sexos","90","Tucumán",2016,261
+3,"ambos_sexos","90","Tucumán",2017,285
+3,"ambos_sexos","90","Tucumán",2018,300
+3,"ambos_sexos","90","Tucumán",2019,295
+2,"mujeres","200","ARG",2010,2410
+2,"mujeres","200","ARG",2011,2330
+2,"mujeres","200","ARG",2012,2361
+2,"mujeres","200","ARG",2013,2351
+2,"mujeres","200","ARG",2014,1982
+2,"mujeres","200","ARG",2015,1888
+2,"mujeres","200","ARG",2016,1813
+2,"mujeres","200","ARG",2017,1409
+2,"mujeres","200","ARG",2018,1516
+2,"mujeres","200","ARG",2019,1418
+2,"mujeres","02","CABA",2010,330
+2,"mujeres","02","CABA",2011,305
+2,"mujeres","02","CABA",2012,282
+2,"mujeres","02","CABA",2013,277
+2,"mujeres","02","CABA",2014,206
+2,"mujeres","02","CABA",2015,196
+2,"mujeres","02","CABA",2016,180
+2,"mujeres","02","CABA",2017,113
+2,"mujeres","02","CABA",2018,120
+2,"mujeres","02","CABA",2019,134
+2,"mujeres","06","Buenos Aires",2010,921
+2,"mujeres","06","Buenos Aires",2011,874
+2,"mujeres","06","Buenos Aires",2012,822
+2,"mujeres","06","Buenos Aires",2013,780
+2,"mujeres","06","Buenos Aires",2014,690
+2,"mujeres","06","Buenos Aires",2015,610
+2,"mujeres","06","Buenos Aires",2016,555
+2,"mujeres","06","Buenos Aires",2017,402
+2,"mujeres","06","Buenos Aires",2018,419
+2,"mujeres","06","Buenos Aires",2019,421
+2,"mujeres","10","Catamarca",2010,12
+2,"mujeres","10","Catamarca",2011,16
+2,"mujeres","10","Catamarca",2012,19
+2,"mujeres","10","Catamarca",2013,9
+2,"mujeres","10","Catamarca",2014,17
+2,"mujeres","10","Catamarca",2015,31
+2,"mujeres","10","Catamarca",2016,15
+2,"mujeres","10","Catamarca",2017,2
+2,"mujeres","10","Catamarca",2018,3
+2,"mujeres","10","Catamarca",2019,1
+2,"mujeres","22","Chaco",2010,19
+2,"mujeres","22","Chaco",2011,34
+2,"mujeres","22","Chaco",2012,32
+2,"mujeres","22","Chaco",2013,41
+2,"mujeres","22","Chaco",2014,15
+2,"mujeres","22","Chaco",2015,4
+2,"mujeres","22","Chaco",2016,23
+2,"mujeres","22","Chaco",2017,10
+2,"mujeres","22","Chaco",2018,39
+2,"mujeres","22","Chaco",2019,33
+2,"mujeres","26","Chubut",2010,42
+2,"mujeres","26","Chubut",2011,65
+2,"mujeres","26","Chubut",2012,39
+2,"mujeres","26","Chubut",2013,59
+2,"mujeres","26","Chubut",2014,33
+2,"mujeres","26","Chubut",2015,44
+2,"mujeres","26","Chubut",2016,44
+2,"mujeres","26","Chubut",2017,19
+2,"mujeres","26","Chubut",2018,36
+2,"mujeres","26","Chubut",2019,36
+2,"mujeres","14","Córdoba",2010,209
+2,"mujeres","14","Córdoba",2011,169
+2,"mujeres","14","Córdoba",2012,187
+2,"mujeres","14","Córdoba",2013,204
+2,"mujeres","14","Córdoba",2014,168
+2,"mujeres","14","Córdoba",2015,158
+2,"mujeres","14","Córdoba",2016,157
+2,"mujeres","14","Córdoba",2017,166
+2,"mujeres","14","Córdoba",2018,138
+2,"mujeres","14","Córdoba",2019,110
+2,"mujeres","18","Corrientes",2010,31
+2,"mujeres","18","Corrientes",2011,24
+2,"mujeres","18","Corrientes",2012,28
+2,"mujeres","18","Corrientes",2013,28
+2,"mujeres","18","Corrientes",2014,33
+2,"mujeres","18","Corrientes",2015,32
+2,"mujeres","18","Corrientes",2016,29
+2,"mujeres","18","Corrientes",2017,12
+2,"mujeres","18","Corrientes",2018,13
+2,"mujeres","18","Corrientes",2019,6
+2,"mujeres","30","Entre Ríos",2010,60
+2,"mujeres","30","Entre Ríos",2011,50
+2,"mujeres","30","Entre Ríos",2012,55
+2,"mujeres","30","Entre Ríos",2013,55
+2,"mujeres","30","Entre Ríos",2014,42
+2,"mujeres","30","Entre Ríos",2015,51
+2,"mujeres","30","Entre Ríos",2016,44
+2,"mujeres","30","Entre Ríos",2017,21
+2,"mujeres","30","Entre Ríos",2018,42
+2,"mujeres","30","Entre Ríos",2019,11
+2,"mujeres","34","Formosa",2010,20
+2,"mujeres","34","Formosa",2011,8
+2,"mujeres","34","Formosa",2012,16
+2,"mujeres","34","Formosa",2013,30
+2,"mujeres","34","Formosa",2014,11
+2,"mujeres","34","Formosa",2015,24
+2,"mujeres","34","Formosa",2016,29
+2,"mujeres","34","Formosa",2017,26
+2,"mujeres","34","Formosa",2018,31
+2,"mujeres","34","Formosa",2019,48
+2,"mujeres","38","Jujuy",2010,49
+2,"mujeres","38","Jujuy",2011,37
+2,"mujeres","38","Jujuy",2012,58
+2,"mujeres","38","Jujuy",2013,64
+2,"mujeres","38","Jujuy",2014,58
+2,"mujeres","38","Jujuy",2015,51
+2,"mujeres","38","Jujuy",2016,63
+2,"mujeres","38","Jujuy",2017,68
+2,"mujeres","38","Jujuy",2018,99
+2,"mujeres","38","Jujuy",2019,74
+2,"mujeres","42","La Pampa",2010,13
+2,"mujeres","42","La Pampa",2011,20
+2,"mujeres","42","La Pampa",2012,19
+2,"mujeres","42","La Pampa",2013,31
+2,"mujeres","42","La Pampa",2014,25
+2,"mujeres","42","La Pampa",2015,24
+2,"mujeres","42","La Pampa",2016,30
+2,"mujeres","42","La Pampa",2017,27
+2,"mujeres","42","La Pampa",2018,20
+2,"mujeres","42","La Pampa",2019,18
+2,"mujeres","46","La Rioja",2010,26
+2,"mujeres","46","La Rioja",2011,22
+2,"mujeres","46","La Rioja",2012,12
+2,"mujeres","46","La Rioja",2013,33
+2,"mujeres","46","La Rioja",2014,21
+2,"mujeres","46","La Rioja",2015,15
+2,"mujeres","46","La Rioja",2016,2
+2,"mujeres","46","La Rioja",2017,4
+2,"mujeres","46","La Rioja",2018,0
+2,"mujeres","46","La Rioja",2019,17
+2,"mujeres","50","Mendoza",2010,76
+2,"mujeres","50","Mendoza",2011,82
+2,"mujeres","50","Mendoza",2012,68
+2,"mujeres","50","Mendoza",2013,88
+2,"mujeres","50","Mendoza",2014,79
+2,"mujeres","50","Mendoza",2015,96
+2,"mujeres","50","Mendoza",2016,78
+2,"mujeres","50","Mendoza",2017,72
+2,"mujeres","50","Mendoza",2018,64
+2,"mujeres","50","Mendoza",2019,92
+2,"mujeres","54","Misiones",2010,65
+2,"mujeres","54","Misiones",2011,62
+2,"mujeres","54","Misiones",2012,80
+2,"mujeres","54","Misiones",2013,61
+2,"mujeres","54","Misiones",2014,34
+2,"mujeres","54","Misiones",2015,11
+2,"mujeres","54","Misiones",2016,64
+2,"mujeres","54","Misiones",2017,38
+2,"mujeres","54","Misiones",2018,40
+2,"mujeres","54","Misiones",2019,13
+2,"mujeres","58","Neuquén",2010,40
+2,"mujeres","58","Neuquén",2011,34
+2,"mujeres","58","Neuquén",2012,33
+2,"mujeres","58","Neuquén",2013,42
+2,"mujeres","58","Neuquén",2014,47
+2,"mujeres","58","Neuquén",2015,46
+2,"mujeres","58","Neuquén",2016,41
+2,"mujeres","58","Neuquén",2017,41
+2,"mujeres","58","Neuquén",2018,50
+2,"mujeres","58","Neuquén",2019,38
+2,"mujeres","62","Río Negro",2010,38
+2,"mujeres","62","Río Negro",2011,31
+2,"mujeres","62","Río Negro",2012,35
+2,"mujeres","62","Río Negro",2013,45
+2,"mujeres","62","Río Negro",2014,45
+2,"mujeres","62","Río Negro",2015,51
+2,"mujeres","62","Río Negro",2016,52
+2,"mujeres","62","Río Negro",2017,44
+2,"mujeres","62","Río Negro",2018,54
+2,"mujeres","62","Río Negro",2019,44
+2,"mujeres","66","Salta",2010,97
+2,"mujeres","66","Salta",2011,115
+2,"mujeres","66","Salta",2012,139
+2,"mujeres","66","Salta",2013,107
+2,"mujeres","66","Salta",2014,122
+2,"mujeres","66","Salta",2015,112
+2,"mujeres","66","Salta",2016,121
+2,"mujeres","66","Salta",2017,106
+2,"mujeres","66","Salta",2018,100
+2,"mujeres","66","Salta",2019,88
+2,"mujeres","70","San Juan",2010,19
+2,"mujeres","70","San Juan",2011,32
+2,"mujeres","70","San Juan",2012,41
+2,"mujeres","70","San Juan",2013,31
+2,"mujeres","70","San Juan",2014,26
+2,"mujeres","70","San Juan",2015,22
+2,"mujeres","70","San Juan",2016,29
+2,"mujeres","70","San Juan",2017,27
+2,"mujeres","70","San Juan",2018,24
+2,"mujeres","70","San Juan",2019,28
+2,"mujeres","74","San Luis",2010,16
+2,"mujeres","74","San Luis",2011,20
+2,"mujeres","74","San Luis",2012,26
+2,"mujeres","74","San Luis",2013,35
+2,"mujeres","74","San Luis",2014,17
+2,"mujeres","74","San Luis",2015,28
+2,"mujeres","74","San Luis",2016,27
+2,"mujeres","74","San Luis",2017,11
+2,"mujeres","74","San Luis",2018,10
+2,"mujeres","74","San Luis",2019,22
+2,"mujeres","78","Santa Cruz",2010,25
+2,"mujeres","78","Santa Cruz",2011,28
+2,"mujeres","78","Santa Cruz",2012,30
+2,"mujeres","78","Santa Cruz",2013,15
+2,"mujeres","78","Santa Cruz",2014,26
+2,"mujeres","78","Santa Cruz",2015,28
+2,"mujeres","78","Santa Cruz",2016,19
+2,"mujeres","78","Santa Cruz",2017,35
+2,"mujeres","78","Santa Cruz",2018,41
+2,"mujeres","78","Santa Cruz",2019,10
+2,"mujeres","82","Santa Fe",2010,178
+2,"mujeres","82","Santa Fe",2011,163
+2,"mujeres","82","Santa Fe",2012,169
+2,"mujeres","82","Santa Fe",2013,172
+2,"mujeres","82","Santa Fe",2014,103
+2,"mujeres","82","Santa Fe",2015,94
+2,"mujeres","82","Santa Fe",2016,67
+2,"mujeres","82","Santa Fe",2017,53
+2,"mujeres","82","Santa Fe",2018,62
+2,"mujeres","82","Santa Fe",2019,80
+2,"mujeres","86","Santiago del Estero",2010,25
+2,"mujeres","86","Santiago del Estero",2011,36
+2,"mujeres","86","Santiago del Estero",2012,21
+2,"mujeres","86","Santiago del Estero",2013,19
+2,"mujeres","86","Santiago del Estero",2014,26
+2,"mujeres","86","Santiago del Estero",2015,38
+2,"mujeres","86","Santiago del Estero",2016,19
+2,"mujeres","86","Santiago del Estero",2017,6
+2,"mujeres","86","Santiago del Estero",2018,10
+2,"mujeres","86","Santiago del Estero",2019,10
+2,"mujeres","94","Tierra del Fuego",2010,8
+2,"mujeres","94","Tierra del Fuego",2011,19
+2,"mujeres","94","Tierra del Fuego",2012,16
+2,"mujeres","94","Tierra del Fuego",2013,10
+2,"mujeres","94","Tierra del Fuego",2014,10
+2,"mujeres","94","Tierra del Fuego",2015,11
+2,"mujeres","94","Tierra del Fuego",2016,6
+2,"mujeres","94","Tierra del Fuego",2017,6
+2,"mujeres","94","Tierra del Fuego",2018,13
+2,"mujeres","94","Tierra del Fuego",2019,15
+2,"mujeres","90","Tucumán",2010,59
+2,"mujeres","90","Tucumán",2011,50
+2,"mujeres","90","Tucumán",2012,79
+2,"mujeres","90","Tucumán",2013,63
+2,"mujeres","90","Tucumán",2014,86
+2,"mujeres","90","Tucumán",2015,58
+2,"mujeres","90","Tucumán",2016,70
+2,"mujeres","90","Tucumán",2017,64
+2,"mujeres","90","Tucumán",2018,79
+2,"mujeres","90","Tucumán",2019,62
+1,"varones","200","ARG",2010,4775
+1,"varones","200","ARG",2011,4837
+1,"varones","200","ARG",2012,4843
+1,"varones","200","ARG",2013,4866
+1,"varones","200","ARG",2014,4539
+1,"varones","200","ARG",2015,4704
+1,"varones","200","ARG",2016,4388
+1,"varones","200","ARG",2017,3489
+1,"varones","200","ARG",2018,3564
+1,"varones","200","ARG",2019,3362
+1,"varones","02","CABA",2010,1094
+1,"varones","02","CABA",2011,1021
+1,"varones","02","CABA",2012,984
+1,"varones","02","CABA",2013,941
+1,"varones","02","CABA",2014,869
+1,"varones","02","CABA",2015,923
+1,"varones","02","CABA",2016,850
+1,"varones","02","CABA",2017,582
+1,"varones","02","CABA",2018,476
+1,"varones","02","CABA",2019,490
+1,"varones","06","Buenos Aires",2010,1504
+1,"varones","06","Buenos Aires",2011,1525
+1,"varones","06","Buenos Aires",2012,1412
+1,"varones","06","Buenos Aires",2013,1346
+1,"varones","06","Buenos Aires",2014,1237
+1,"varones","06","Buenos Aires",2015,1308
+1,"varones","06","Buenos Aires",2016,1185
+1,"varones","06","Buenos Aires",2017,822
+1,"varones","06","Buenos Aires",2018,861
+1,"varones","06","Buenos Aires",2019,835
+1,"varones","10","Catamarca",2010,7
+1,"varones","10","Catamarca",2011,20
+1,"varones","10","Catamarca",2012,25
+1,"varones","10","Catamarca",2013,29
+1,"varones","10","Catamarca",2014,27
+1,"varones","10","Catamarca",2015,37
+1,"varones","10","Catamarca",2016,37
+1,"varones","10","Catamarca",2017,8
+1,"varones","10","Catamarca",2018,2
+1,"varones","10","Catamarca",2019,0
+1,"varones","22","Chaco",2010,72
+1,"varones","22","Chaco",2011,61
+1,"varones","22","Chaco",2012,78
+1,"varones","22","Chaco",2013,101
+1,"varones","22","Chaco",2014,32
+1,"varones","22","Chaco",2015,18
+1,"varones","22","Chaco",2016,55
+1,"varones","22","Chaco",2017,13
+1,"varones","22","Chaco",2018,127
+1,"varones","22","Chaco",2019,87
+1,"varones","26","Chubut",2010,58
+1,"varones","26","Chubut",2011,70
+1,"varones","26","Chubut",2012,75
+1,"varones","26","Chubut",2013,77
+1,"varones","26","Chubut",2014,70
+1,"varones","26","Chubut",2015,68
+1,"varones","26","Chubut",2016,76
+1,"varones","26","Chubut",2017,36
+1,"varones","26","Chubut",2018,45
+1,"varones","26","Chubut",2019,65
+1,"varones","14","Córdoba",2010,445
+1,"varones","14","Córdoba",2011,424
+1,"varones","14","Córdoba",2012,451
+1,"varones","14","Córdoba",2013,436
+1,"varones","14","Córdoba",2014,431
+1,"varones","14","Córdoba",2015,395
+1,"varones","14","Córdoba",2016,372
+1,"varones","14","Córdoba",2017,331
+1,"varones","14","Córdoba",2018,255
+1,"varones","14","Córdoba",2019,204
+1,"varones","18","Corrientes",2010,58
+1,"varones","18","Corrientes",2011,55
+1,"varones","18","Corrientes",2012,62
+1,"varones","18","Corrientes",2013,81
+1,"varones","18","Corrientes",2014,70
+1,"varones","18","Corrientes",2015,85
+1,"varones","18","Corrientes",2016,81
+1,"varones","18","Corrientes",2017,23
+1,"varones","18","Corrientes",2018,40
+1,"varones","18","Corrientes",2019,20
+1,"varones","30","Entre Ríos",2010,105
+1,"varones","30","Entre Ríos",2011,132
+1,"varones","30","Entre Ríos",2012,105
+1,"varones","30","Entre Ríos",2013,127
+1,"varones","30","Entre Ríos",2014,86
+1,"varones","30","Entre Ríos",2015,93
+1,"varones","30","Entre Ríos",2016,76
+1,"varones","30","Entre Ríos",2017,35
+1,"varones","30","Entre Ríos",2018,90
+1,"varones","30","Entre Ríos",2019,19
+1,"varones","34","Formosa",2010,19
+1,"varones","34","Formosa",2011,25
+1,"varones","34","Formosa",2012,33
+1,"varones","34","Formosa",2013,43
+1,"varones","34","Formosa",2014,29
+1,"varones","34","Formosa",2015,46
+1,"varones","34","Formosa",2016,45
+1,"varones","34","Formosa",2017,52
+1,"varones","34","Formosa",2018,59
+1,"varones","34","Formosa",2019,85
+1,"varones","38","Jujuy",2010,74
+1,"varones","38","Jujuy",2011,69
+1,"varones","38","Jujuy",2012,86
+1,"varones","38","Jujuy",2013,114
+1,"varones","38","Jujuy",2014,108
+1,"varones","38","Jujuy",2015,125
+1,"varones","38","Jujuy",2016,104
+1,"varones","38","Jujuy",2017,136
+1,"varones","38","Jujuy",2018,191
+1,"varones","38","Jujuy",2019,229
+1,"varones","42","La Pampa",2010,26
+1,"varones","42","La Pampa",2011,35
+1,"varones","42","La Pampa",2012,21
+1,"varones","42","La Pampa",2013,43
+1,"varones","42","La Pampa",2014,29
+1,"varones","42","La Pampa",2015,42
+1,"varones","42","La Pampa",2016,39
+1,"varones","42","La Pampa",2017,46
+1,"varones","42","La Pampa",2018,30
+1,"varones","42","La Pampa",2019,31
+1,"varones","46","La Rioja",2010,37
+1,"varones","46","La Rioja",2011,31
+1,"varones","46","La Rioja",2012,23
+1,"varones","46","La Rioja",2013,33
+1,"varones","46","La Rioja",2014,41
+1,"varones","46","La Rioja",2015,29
+1,"varones","46","La Rioja",2016,13
+1,"varones","46","La Rioja",2017,3
+1,"varones","46","La Rioja",2018,4
+1,"varones","46","La Rioja",2019,21
+1,"varones","50","Mendoza",2010,188
+1,"varones","50","Mendoza",2011,204
+1,"varones","50","Mendoza",2012,217
+1,"varones","50","Mendoza",2013,230
+1,"varones","50","Mendoza",2014,244
+1,"varones","50","Mendoza",2015,234
+1,"varones","50","Mendoza",2016,227
+1,"varones","50","Mendoza",2017,236
+1,"varones","50","Mendoza",2018,257
+1,"varones","50","Mendoza",2019,249
+1,"varones","54","Misiones",2010,70
+1,"varones","54","Misiones",2011,66
+1,"varones","54","Misiones",2012,110
+1,"varones","54","Misiones",2013,59
+1,"varones","54","Misiones",2014,61
+1,"varones","54","Misiones",2015,25
+1,"varones","54","Misiones",2016,85
+1,"varones","54","Misiones",2017,79
+1,"varones","54","Misiones",2018,84
+1,"varones","54","Misiones",2019,19
+1,"varones","58","Neuquén",2010,87
+1,"varones","58","Neuquén",2011,97
+1,"varones","58","Neuquén",2012,88
+1,"varones","58","Neuquén",2013,68
+1,"varones","58","Neuquén",2014,95
+1,"varones","58","Neuquén",2015,98
+1,"varones","58","Neuquén",2016,93
+1,"varones","58","Neuquén",2017,111
+1,"varones","58","Neuquén",2018,87
+1,"varones","58","Neuquén",2019,99
+1,"varones","62","Río Negro",2010,53
+1,"varones","62","Río Negro",2011,66
+1,"varones","62","Río Negro",2012,74
+1,"varones","62","Río Negro",2013,85
+1,"varones","62","Río Negro",2014,56
+1,"varones","62","Río Negro",2015,73
+1,"varones","62","Río Negro",2016,87
+1,"varones","62","Río Negro",2017,67
+1,"varones","62","Río Negro",2018,80
+1,"varones","62","Río Negro",2019,65
+1,"varones","66","Salta",2010,160
+1,"varones","66","Salta",2011,185
+1,"varones","66","Salta",2012,178
+1,"varones","66","Salta",2013,197
+1,"varones","66","Salta",2014,225
+1,"varones","66","Salta",2015,225
+1,"varones","66","Salta",2016,210
+1,"varones","66","Salta",2017,237
+1,"varones","66","Salta",2018,220
+1,"varones","66","Salta",2019,218
+1,"varones","70","San Juan",2010,37
+1,"varones","70","San Juan",2011,58
+1,"varones","70","San Juan",2012,59
+1,"varones","70","San Juan",2013,65
+1,"varones","70","San Juan",2014,64
+1,"varones","70","San Juan",2015,73
+1,"varones","70","San Juan",2016,68
+1,"varones","70","San Juan",2017,61
+1,"varones","70","San Juan",2018,84
+1,"varones","70","San Juan",2019,89
+1,"varones","74","San Luis",2010,28
+1,"varones","74","San Luis",2011,28
+1,"varones","74","San Luis",2012,44
+1,"varones","74","San Luis",2013,56
+1,"varones","74","San Luis",2014,40
+1,"varones","74","San Luis",2015,46
+1,"varones","74","San Luis",2016,53
+1,"varones","74","San Luis",2017,37
+1,"varones","74","San Luis",2018,27
+1,"varones","74","San Luis",2019,37
+1,"varones","78","Santa Cruz",2010,37
+1,"varones","78","Santa Cruz",2011,33
+1,"varones","78","Santa Cruz",2012,31
+1,"varones","78","Santa Cruz",2013,31
+1,"varones","78","Santa Cruz",2014,48
+1,"varones","78","Santa Cruz",2015,43
+1,"varones","78","Santa Cruz",2016,48
+1,"varones","78","Santa Cruz",2017,58
+1,"varones","78","Santa Cruz",2018,54
+1,"varones","78","Santa Cruz",2019,33
+1,"varones","82","Santa Fe",2010,289
+1,"varones","82","Santa Fe",2011,282
+1,"varones","82","Santa Fe",2012,283
+1,"varones","82","Santa Fe",2013,313
+1,"varones","82","Santa Fe",2014,257
+1,"varones","82","Santa Fe",2015,246
+1,"varones","82","Santa Fe",2016,192
+1,"varones","82","Santa Fe",2017,143
+1,"varones","82","Santa Fe",2018,173
+1,"varones","82","Santa Fe",2019,142
+1,"varones","86","Santiago del Estero",2010,32
+1,"varones","86","Santiago del Estero",2011,49
+1,"varones","86","Santiago del Estero",2012,28
+1,"varones","86","Santiago del Estero",2013,16
+1,"varones","86","Santiago del Estero",2014,42
+1,"varones","86","Santiago del Estero",2015,48
+1,"varones","86","Santiago del Estero",2016,20
+1,"varones","86","Santiago del Estero",2017,16
+1,"varones","86","Santiago del Estero",2018,13
+1,"varones","86","Santiago del Estero",2019,12
+1,"varones","94","Tierra del Fuego",2010,25
+1,"varones","94","Tierra del Fuego",2011,30
+1,"varones","94","Tierra del Fuego",2012,18
+1,"varones","94","Tierra del Fuego",2013,33
+1,"varones","94","Tierra del Fuego",2014,25
+1,"varones","94","Tierra del Fuego",2015,30
+1,"varones","94","Tierra del Fuego",2016,38
+1,"varones","94","Tierra del Fuego",2017,30
+1,"varones","94","Tierra del Fuego",2018,29
+1,"varones","94","Tierra del Fuego",2019,28
+1,"varones","90","Tucumán",2010,155
+1,"varones","90","Tucumán",2011,155
+1,"varones","90","Tucumán",2012,213
+1,"varones","90","Tucumán",2013,208
+1,"varones","90","Tucumán",2014,184
+1,"varones","90","Tucumán",2015,204
+1,"varones","90","Tucumán",2016,191
+1,"varones","90","Tucumán",2017,221
+1,"varones","90","Tucumán",2018,221
+1,"varones","90","Tucumán",2019,233
