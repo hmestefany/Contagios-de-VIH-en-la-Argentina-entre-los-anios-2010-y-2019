@@ -1,3 +1,9 @@
+packages <- c( "readr", "ggplot2", "dplyr","shiny", "shinyWidgets", "dslabs",
+              "tidyverse","plotly")
+if (length(setdiff(packages, rownames(installed.packages()))) > 0) {
+  install.packages(setdiff(packages, rownames(installed.packages())))
+}
+
 
 library(readr)
 library(tidyverse)
@@ -13,9 +19,6 @@ vih<-vih%>%select(2,4,5,6)
 # convierto en factor las variables para gráficar 
 
 vih$sexo<-as.factor(vih$sexo)
-
-#install.packages(c("shiny", "shinyWidgets", "dslabs",
-#                   "tidyverse", "plotly"))
 
 library(shiny)
 library(shinyWidgets)
